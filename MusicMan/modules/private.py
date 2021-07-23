@@ -50,8 +50,8 @@ Saya Memiliki Banyak Fitur Praktis Seperti :
 ┣• Daftar Perintah Lengkap » /help «
 ┗━━━━━━━━━━━━━━
 
-❃ Owner bot : [Owner](https://t.me/{OWNER})
-❃ Thanks To : [Mon](https://t.me/mondisini) | [Risman](https://t.me/mrismanaziz)
+❃ Owner bot : [ᴏᴡɴᴇʀ](https://t.me/{OWNER})
+❃ Thanks To : [ᴍᴏɴ](https://t.me/mondisini) | [ʀɪsᴍᴀɴ](https://t.me/mrismanaziz)
 ━━━━━━━━━━━━━━━
 Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
 </b>""",
