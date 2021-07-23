@@ -50,8 +50,8 @@ Saya Memiliki Banyak Fitur Praktis Seperti :
 ┣• Daftar Perintah Lengkap » /help «
 ┗━━━━━━━━━━━━━━
 
-❃ Owner bot : [Mon](https://t.me/mondisini)
-❃ Thanks To : [Risman](https://t.me/mrismanaziz)
+❃ Owner bot : [Owner](https://t.me/{OWNER})
+❃ Thanks To : [Mon](https://t.me/mondisini) | [Risman](https://t.me/mrismanaziz)
 ━━━━━━━━━━━━━━━
 Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
 </b>""",
@@ -71,7 +71,7 @@ Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
                         "✨ ɢʀᴏᴜᴘs", url=f"https://t.me/{SUPPORT_GROUP}")
                 ],[
                     InlineKeyboardButton(
-                        "⚡ ᴏᴡɴᴇʀ", url=f"https://t.me/mondisini")
+                        "⚡ ᴏᴡɴᴇʀ", url=f"https://t.me/{OWNER}")
                 ]
             ]
         ),
@@ -127,7 +127,7 @@ def map(pos):
             ],
             [
                 InlineKeyboardButton(
-                    text='⚡ ᴏᴡɴᴇʀ', url=f"https://t.me/mondisini"
+                    text='⚡ ᴏᴡɴᴇʀ', url=f"https://t.me/{OWNER}"
                 )
             ],
             [InlineKeyboardButton(text='«', callback_data=f"help+{pos-1}")],
