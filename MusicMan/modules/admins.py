@@ -51,10 +51,10 @@ async def update_admin(client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌹 sᴜᴘᴘᴏʀᴛ", url="https://t.me/chmongabut"
+                        "⚡ ᴏᴡɴᴇʀ", url="https://t.me/{OWNER}"
                     ),
                     InlineKeyboardButton(
-                        "⚡ ᴏᴡɴᴇʀ", url="https://t.me/mondisini"
+                        "🌹 sᴜᴘᴘᴏʀᴛ", url="https://t.me/mondisini"
                     )
                 ]
             ]
