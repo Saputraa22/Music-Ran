@@ -50,7 +50,7 @@ Saya Memiliki Banyak Fitur Praktis Seperti :
 ┣• Daftar Perintah Lengkap » /help «
 ┗━━━━━━━━━━━━━━
 
-❃ Owner bot : [ᴏᴡɴᴇʀ](https://t.me/{OWNER})
+❃ Owner bot : [ᴏᴡɴᴇʀ](https://t.me/kibodisini)
 ❃ Thanks To : [ᴍᴏɴ](https://t.me/mondisini) | [ʀɪsᴍᴀɴ](https://t.me/mrismanaziz)
 ━━━━━━━━━━━━━━━
 Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
@@ -71,7 +71,7 @@ Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
                         "✨ ɢʀᴏᴜᴘs", url=f"https://t.me/{SUPPORT_GROUP}")
                 ],[
                     InlineKeyboardButton(
-                        "⚡ ᴏᴡɴᴇʀ", url=f"https://t.me/{OWNER}")
+                        "⚡ ᴏᴡɴᴇʀ", url=f"https://t.me/kibodisini")
                 ]
             ]
         ),
